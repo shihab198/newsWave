@@ -3,8 +3,8 @@ mon# 📰 NewsWave — Full Stack News Portal
 A complete, production-ready news portal built with **React + Zustand** (frontend) and **Node.js + Express + MongoDB** (backend).
 
 ## 🚀 Live Demo
-- **Frontend:** https://your-newswave.vercel.app
-- **Backend API:** https://your-newswave-api.vercel.app
+- **Frontend:** https://vercelnewswave.vercel.app
+- **Backend API:** 
 
 ---
 
